@@ -1,51 +1,40 @@
-✍️ Parte 1: Reflexión vocacional
-La parte del software que más me llama la atención es el desarrollo frontend 🎨 porque me gusta ver cómo una idea toma forma visualmente y se convierte en algo interactivo que otras personas pueden usar. Me encanta el diseño, los colores, el movimiento, y cómo pequeños detalles pueden mejorar la experiencia de un usuario.
 
-Mis habilidades como la creatividad, atención al detalle y pensamiento lógico se alinean muy bien con esta área. Me gusta analizar qué funciona y qué no en una interfaz, además de experimentar con nuevas herramientas.
+## ✍️ Parte 1: Reflexión vocacional
 
-En los próximos meses quiero explorar más sobre UX/UI, animaciones con JavaScript y frameworks como React ⚛️. También me gustaría probar un poco de diseño con Figma y tal vez hacer colaboraciones pequeñas con otros estudiantes.
+💭 La parte del software que más me llama la atención es el **desarrollo frontend** 🎨 porque me encanta transformar ideas en cosas visuales y funcionales. Me parece increíble cómo un diseño puede convertirse en una experiencia interactiva para las personas.
 
-Con el test y el mapa vocacional entendí que soy alguien que necesita trabajar en proyectos visuales y dinámicos para sentirme motivado/a. Me di cuenta que cuando me emociono con un proyecto, aprendo muchísimo más rápido 🚀.
+🔧 Mis habilidades como la **creatividad**, el **pensamiento lógico** y la **atención al detalle** se alinean bien con esta área. Además, me gusta comunicarme bien con los demás y presentar mis ideas de forma clara.
 
-🧱 Parte 2: Mapa personal
-💡 Mapa de fortalezas y pasiones
-Lo que sé hacer bien (habilidades):
+🧪 En los próximos meses quiero explorar más sobre **UX/UI**, **React**, y tal vez algo de **Figma** o diseño emocional. Me interesa saber cómo crear productos que no solo se vean bien, sino que también conecten con el usuario 💛.
 
-Resolver problemas 🧩
+🧠 Con el test y el mapa vocacional, entendí que necesito sentir emoción por lo que creo para aprender mejor. Me gustan los retos visuales, y cuando algo me interesa, me meto de lleno 🚀.
 
-Comunicar ideas claramente 🗣️
+---
 
-Aprender cosas nuevas rápido ⚡
+## 🧱 Parte 2: Mapa personal
 
-Hacer presentaciones visuales 🎞️
+## 💡 Mapa de fortalezas y pasiones
 
-Lo que disfruto hacer (pasiones):
+### 🔧 Lo que sé hacer bien (habilidades):
+- Resolver problemas 🧩  
+- Comunicar ideas con claridad 🗣️  
+- Aprender rápido ⚡  
+- Hacer presentaciones visuales 🎞️  
 
-Diseñar interfaces ✍️
+### ❤️ Lo que disfruto hacer (pasiones):
+- Diseñar interfaces ✍️  
+- Crear cosas visuales 🎨  
+- Jugar videojuegos 🎮  
+- Enseñar o compartir conocimientos 👥  
 
-Crear cosas visuales 🎨
+### 🔍 Lo que me gustaría aprender (curiosidades):
+- Inteligencia Artificial 🤖  
+- Desarrollo móvil 📱  
+- UX y diseño emocional 💛  
+- Diseño de videojuegos 🎮  
 
-Jugar videojuegos 🎮
-
-Compartir lo que aprendo con otros 👥
-
-Lo que me gustaría aprender (curiosidades):
-
-Inteligencia Artificial 🤖
-
-Desarrollo móvil 📱
-
-Diseño de videojuegos 🎮
-
-UX y diseño emocional 💛
-
-🌟 Áreas del software que más se relacionan:
-
-Frontend
-
-UX/UI
-
-Videojuegos
-
-Aplicaciones móviles
-
+### 🌟 Áreas del software que más se relacionan:
+- Frontend  
+- UX/UI  
+- Videojuegos  
+- Aplicaciones móviles  
